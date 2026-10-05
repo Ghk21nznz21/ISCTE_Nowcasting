@@ -1,0 +1,9 @@
+# Python side (data + analysis). The DFM Kalman filter was done in R (fkf).
+pandas
+numpy
+statsmodels
+matplotlib
+pytrends        # Google Trends data
+openpyxl        # read .xlsx
+xlrd            # read the INE .xls
+jupyter
